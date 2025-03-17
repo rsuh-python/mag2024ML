@@ -9,5 +9,5 @@
 5. Ансамбли. 
 6. Эмбеддинги. 
 7. Кластеризация. 
-8. Отчет по соревнованию.
+8. Отчет по соревнованию [Backpack Prediction](https://www.kaggle.com/competitions/playground-series-s5e2/overview)
 
